@@ -14,8 +14,13 @@ Fakultas Ilmu Komputer & Teknologi Informasi.
 Universitas Gunadarma.
 
 Requirement:
+
 -XAMPP 7.2.5
+
 -Upload Database terlebih dahulu (Tertera pada Repository)
+
 -Jalankan perintah di bawah:
+
 composer update
+
 php artisan serve
