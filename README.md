@@ -9,6 +9,6 @@ Kelompok 1
 5. Syam Fadlan
 6. Ziko Ashari
 
-Kelas 4KA30
-Fakultas Ilmu Komputer & Teknologi Informasi
-Universitas Gunadarma
+Kelas 4KA30.
+Fakultas Ilmu Komputer & Teknologi Informasi.
+Universitas Gunadarma.
